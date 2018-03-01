@@ -1,0 +1,1 @@
+# Responsive-Hero-image-cuts-off-to-the-left-
